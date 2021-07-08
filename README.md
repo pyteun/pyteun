@@ -11,7 +11,7 @@
 
 <br>
 
-I am a full-time Cloud Data Engineer and I do mainly python freelancing jobs in my spare time. But also some web / app development.
+I am a full-time Cloud Data Engineer, mainly on Microsoft Azure, and I do python freelancing jobs in my spare time. But also some web / app development.
 
 As a programmer, I love exploring new technologies, learning new things and building projects. I usually focus on building applications in my spare,
 and use that knowledge in my day-to-day job, or on freelance projects. 
@@ -21,5 +21,6 @@ I have a high affinity with all things related to IT. My passion is data enginee
 
 **My GitHub Stats:**  
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pyteun&show_icons=true&theme=radical"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=pyteun&show_icons=true&theme=algolia"/>
+  <img height="207em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyteun&layout=compact&theme=algolia"/>
 </p>
