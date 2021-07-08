@@ -11,7 +11,7 @@
 
 <br>
 
-I am a full-time Cloud Data Engineer and I python freelancing jobs in my spare time
+I am a full-time Cloud Data Engineer and I do mainly python freelancing jobs in my spare time. But also some web / app development.
 
 As a programmer, I love exploring new technologies, learning new things and building projects. I usually focus on building applications in my spare,
 and use that knowledge in my day-to-day job, or on freelance projects. 
