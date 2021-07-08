@@ -5,7 +5,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/PyTeun)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/westeun)
 
+<br>
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pyteun.pyteun)
+
+<br>
 
 I am a full-time Cloud Data Engineer and I python freelancing jobs in my spare time
 
