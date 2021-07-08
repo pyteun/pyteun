@@ -7,7 +7,7 @@
 
 <br>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pyteun.pyteun)
+### Glad to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=pyteun.pyteun)
 
 <br>
 
